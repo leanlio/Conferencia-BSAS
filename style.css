@@ -1,0 +1,53 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.logo {
+    width: 60%;
+    position: relative;
+    left: 100px;
+}
+
+.link-activo{
+    color: #ffff;
+    padding:8px 16px;
+}
+
+.link-activo-compra{
+    color: rgb(10, 197, 10);
+    padding:8px 16px;
+}
+
+.img-carr {
+    width: 300px;
+}
+.overtext{
+    width: 40%;
+    position: absolute;
+    bottom: 30%;
+    left: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+.texto-slide{
+    color: honeydew;
+    text-align: right;
+}
+
+.col-sm-6{
+    padding: 0px;
+}
+
+.texto-gris{
+    color: white;
+    position: absolute;
+    bottom: -85%;
+    left: 55%;
+}
+
+.centrado{
+    text-align: center;
+}
